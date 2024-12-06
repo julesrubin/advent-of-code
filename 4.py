@@ -1,5 +1,5 @@
-def read_input(input_path):
-    with open(input_path) as f:
+def read_input(file_path):
+    with open(file_path) as f:
         data = f.read().strip()
 
     return data
@@ -96,8 +96,8 @@ def count_crossed_mas(lines):
     return total
 
 if __name__ == "__main__":
-    input_path = "inputs/input4.txt"
-    data = read_input(input_path)
+    file_path = "inputs/input4.txt"
+    data = read_input(file_path)
     lines = get_lines(data)
     columns = get_columns(data)
     diagonals = get_diagonals(data)
