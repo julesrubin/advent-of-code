@@ -6,13 +6,13 @@ Solutions for [Advent of Code 2025](https://adventofcode.com/2025)
 
 | Day | Part 1 | Part 2 | Solution |
 |-----|--------|--------|----------|
-| 1   | ⬜     | ⬜     | - |
+| 1   | ⭐     | ⭐     | [1.py](1.py) |
 | 2   | ⬜     | ⬜     | - |
 | 3   | ⬜     | ⬜     | - |
 | ... | ⬜     | ⬜     | - |
 | 25  | ⬜     | ⬜     | - |
 
-**Total Stars: 0/50** ⭐
+**Total Stars: 2/50** ⭐
 
 ## Running Solutions
 
