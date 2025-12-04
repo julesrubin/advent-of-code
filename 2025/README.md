@@ -9,10 +9,11 @@ Solutions for [Advent of Code 2025](https://adventofcode.com/2025)
 | 1   | ⭐     | ⭐     | [1.py](1.py) |
 | 2   | ⭐     | ⭐     | [2.py](2.py) |
 | 3   | ⭐     | ⭐     | [3.py](3.py) |
+| 4   | ⭐     | ⭐     | [4.py](4.py) |
 | ... | ⬜     | ⬜     | - |
 | 25  | ⬜     | ⬜     | - |
 
-**Total Stars: 6/50** ⭐
+**Total Stars: 8/50** ⭐
 
 ## Running Solutions
 
@@ -21,7 +22,7 @@ Solutions for [Advent of Code 2025](https://adventofcode.com/2025)
 cd 2025
 
 # Run a specific day
-python day01.py
+python 1.py
 ```
 
 ## Setup
