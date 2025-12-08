@@ -13,10 +13,11 @@ Solutions for [Advent of Code 2025](https://adventofcode.com/2025)
 | 5   | ⭐     | ⭐     | [5.py](5.py) |
 | 6   | ⭐     | ⭐     | [6.py](6.py) |
 | 7   | ⭐     | ⭐     | [7.py](7.py) |
+| 8   | ⭐     | ⭐     | [8.py](8.py) |
 | ... | ⬜     | ⬜     | - |
 | 25  | ⬜     | ⬜     | - |
 
-**Total Stars: 14/50** ⭐
+**Total Stars: 16/50** ⭐
 
 ## Running Solutions
 
