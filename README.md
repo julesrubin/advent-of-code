@@ -18,9 +18,9 @@ advent-of-code/
 ## 🚀 Progress
 
 ### 2025
-- ⭐ Days completed: 8/25
-- 🌟 Total stars: 16/50
-- 📅 Last update: December 8, 2025
+- ⭐ Days completed: 9/25
+- 🌟 Total stars: 18/50
+- 📅 Last update: December 9, 2025
 
 ### 2024
 - ⭐ Days completed: 8/25
